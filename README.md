@@ -1,4 +1,4 @@
-The Old Timer (OT) tournament is one in which competitors face off in randomly selected games. This repository contains a jupyter notebook for analyzing the results of tournaments, and some simple software for handling game selection during the tournament.
+The Old Timer (OT) tournament is a tournament series that has been running for several years, in which competitors face off in randomly selected games. This repository contains a jupyter notebook for analyzing the results of tournaments, and some simple software for handling game selection during the tournament.
 
 ================================CODE
 
